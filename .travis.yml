@@ -7,4 +7,3 @@ install:
   - npm run build
 script:
   - npm test
-  - codecov -f coverage/*.json
